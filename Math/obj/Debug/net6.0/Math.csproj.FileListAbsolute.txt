@@ -1,0 +1,15 @@
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\bin\Debug\net6.0\Math.exe
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\bin\Debug\net6.0\Math.deps.json
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\bin\Debug\net6.0\Math.dll
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\bin\Debug\net6.0\Math.pdb
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.dll
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\refint\Math.dll
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.pdb
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Math\obj\Debug\net6.0\ref\Math.dll

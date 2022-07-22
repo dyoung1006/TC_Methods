@@ -1,0 +1,15 @@
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\bin\Debug\net6.0\Story.exe
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\bin\Debug\net6.0\Story.deps.json
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\bin\Debug\net6.0\Story.runtimeconfig.json
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\bin\Debug\net6.0\Story.dll
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\bin\Debug\net6.0\Story.pdb
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.csproj.AssemblyReference.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.AssemblyInfoInputs.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.AssemblyInfo.cs
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.csproj.CoreCompileInputs.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.dll
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\refint\Story.dll
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.pdb
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\Story.genruntimeconfig.cache
+C:\Users\dyoun\source\repos\TrueIOMethods\Story\obj\Debug\net6.0\ref\Story.dll
